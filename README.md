@@ -8,7 +8,7 @@ Website estático desenvolvido para trabalho final do curso de fundamentos de AW
 
 ### Technologies
 <p display="inline-block">
-  <img width="48" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt="csharp-logo"/>
+  <img width="48" src="http://www.w3.org/html/logo/" alt="csharp-logo"/>
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="blazor-logo"/>
 </p>
                                                                                                   
